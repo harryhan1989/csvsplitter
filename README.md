@@ -1,6 +1,6 @@
 # csvsplitter
 large csv file splitter by column, write by python.
-similar with "group by", this code will group by rows into splitted files, based on specified column
+similar with "group by", this code will group by rows into splitted files, based on a specified column
 
 =======how to use========
 
